@@ -1,6 +1,6 @@
 # Python QR-Code Creator  
 
-![Status](https://img.shields.io/badge/Active-true-brightgreen) ![Status](https://img.shields.io/badge/Indev-idle-yellow)
+![Status](https://img.shields.io/badge/Active-true-brightgreen) ![Status](https://img.shields.io/badge/Indev-no-red)
 
 Generate qr codes in python
 
